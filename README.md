@@ -1,5 +1,5 @@
 # 智能机器人仿真导航与任务系统 README
-![Uploading 0c1cf5a7571db575e4931f3c10b819f0_compress.jpg…]()
+![](https://d58w.com/liujin/i/2025/11/26/xkyl.jpg)
 
 
 ## 1. 项目概述  
