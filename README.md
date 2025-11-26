@@ -1,6 +1,10 @@
 # 智能机器人仿真导航与任务系统 README
+<img width="1872" height="1125" alt="image" src="https://github.com/user-attachments/assets/c8662132-b834-44f5-820c-854e203c3fa1" />
 
-![Uploading image.png…]()
+
+
+
+
 
 ## 1. 项目概述  
 本项目是一款面向智能车竞赛的**高-performance 仿真任务系统**，基于ROS (Robot Operating System) 构建，旨在Gazebo仿真环境中实现机器人的**动态导航、目标识别与跨系统通信**。系统核心是一套具备"类生物适应能力"的控制器，可在复杂场景（含随机障碍、狭窄通道、动态任务）中实现高速、流畅、高成功率的任务执行，且通过rosbridge支持与实体机器人的双向数据交互，完全满足竞赛对实时性、鲁棒性的要求。  
